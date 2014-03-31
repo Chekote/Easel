@@ -1,0 +1,16 @@
+.history
+logs
+project/project
+project/target
+target
+tmp
+dist
+/out
+/public/javascriptsjquery-2.1.0.js
+/RUNNING_PID
+/.classpath
+/.idea
+/.idea_modules
+/.project
+/.settings
+/*.iml
